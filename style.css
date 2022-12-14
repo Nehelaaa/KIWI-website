@@ -302,7 +302,7 @@ section .title::after{
 
 /* skills section styling */
 .skills .title::after{
-    content: "Grades";
+    content: "Skills";
 }
 
 .skills .skills-content .column{
